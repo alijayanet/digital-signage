@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Monitor Outer Body -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M24,28 h60 a4,4 0 0,1 4,4 v38 a4,4 0 0,1 -4,4 h-60 a4,4 0 0,1 -4,-4 v-38 a4,4 0 0,1 4,-4 z" />
+    <!-- Screen Inner Display -->
+    <path
+        android:fillColor="#091428"
+        android:pathData="M27,32 h54 v30 h-54 z" />
+    <!-- Screen Header Bar (Cyan) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M27,32 h54 v6 h-54 z" />
+    <!-- Media Frame Preview (Amber) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M30,41 h28 v18 h-28 z" />
+    <!-- Sidebar Lines -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M61,41 h17 v3 h-17 z M61,47 h14 v3 h-14 z M61,53 h16 v3 h-16 z" />
+    <!-- Running Ticker Bar (Emerald Green) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M27,62 h54 v4 h-54 z" />
+    <!-- TV Stand -->
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M51,74 h6 v6 h-6 z M42,80 h24 a2,2 0 0,1 2,2 v1 h-28 v-1 a2,2 0 0,1 2,-2 z" />
+    <!-- WiFi / Broadcast Beacon on top -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,20 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M48,22 a7,7 0 0,1 12,0 M44,18 a12,12 0 0,1 20,0" />
+</vector>
